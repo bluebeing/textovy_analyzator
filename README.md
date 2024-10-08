@@ -1,1 +1,3 @@
-# textovy_analyzator
+# Textový analyzátor
+
+První úkol k certifikaci Engeto.
